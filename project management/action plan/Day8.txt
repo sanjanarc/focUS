@@ -1,0 +1,13 @@
+Action plan for Day8:
+
+Finish data preprocessing the User Dataset - Rachel and Sanjana 
+
+Brushen up research on NLP models and TF-IDF 
+
+
+
+Tomorrow:
+
+- meeting with mentor2 
+- ai team begin ai process 
+- frontend discussion 

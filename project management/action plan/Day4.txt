@@ -1,0 +1,15 @@
+Action Plan for Day 4:
+
+- Road Map / Gantt Chart - Sanjana
+- Individual Research on frontend/ Ai 
+
+
+
+Tomorrow: 
+
+- Creating User Data 
+- Assigning Roles 
+- Decide when we want to start Data Preprocessing
+
+
+

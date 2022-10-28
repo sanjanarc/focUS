@@ -1,0 +1,15 @@
+Action plan for Day 6:
+
+Priority: 
+   - Continue research on AI techniques - Ai team + rest of us if there's time
+
+   - Data preprocessing - Data team 
+ 
+- Brainstorm team names 
+
+
+Reminder: 
+
+Team name + Mentor meeting - tomorrow
+Decide which Ai techniques to integrate - Wednesday Ai team 
+

@@ -1,0 +1,40 @@
+Action plan for Day 2 + Notes from Mentor meeting: 
+
+- Buisness problem
+- Stakeholders 
+- Solution design --> what is it you are trying to build, techniques  
+- Differentiator and competitor analysis 
+
+
+- create a road map start to end (will be tweaked)
+
+-generate a model sheet --> info sheet (recommended structure)
+
+- discuss frontend: 
+   - find platform --> no code mobile app
+   - emulators 
+
+
+- come up w a daily check in time: 
+    - what I did ystd
+    - what i'm planning to do today 
+    - what are my impediments 
+
+- come up w a team name 
+
+- choose point of contact w mentor: 
+  - give her a progress report every few days 
+
+advice from mentor: 
+	- go with simple model  
+        - use datasets available:
+		explain: robust application --> swap out dataset  
+                confirm with Cristina Isaicu 
+        - to classify data: binary classification or clustering 
+        - online learning  ( action, hook and this positive example
+        - if comparing datasets --> preliminary exploratory data analysis EDA 
+
+
+Note: 
+next mentor meeting discussion topics: bias and explinability 
+next mentor meeting: next tuesday 

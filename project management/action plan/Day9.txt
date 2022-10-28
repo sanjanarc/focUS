@@ -1,0 +1,16 @@
+Action plan for Day9:
+
+Ai team: 
+ - begin on NLP 
+ - continue research 
+ - brief run down of schedule for ai process
+
+Frontend:
+ - HTML and Java Script familiarization
+
+
+Tomorrow: 
+
+- Ta session in the afternoon
+
+

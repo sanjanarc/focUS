@@ -1,0 +1,17 @@
+Action plan for Day 3: 
+
+- go through competitor interactions social media platforms, look into recommendation models, algorithms
+- go through all competitor analysis (refer to stakeholders doc) 
+
+- linkedin data scraping (2)
+- think what data we'd need to create 
+
+- look into collaborative filtering ml technique 
+
+- create gantt chart template - Sanjana
+
+- contact the mentor - Monishka 
+
+- do research and come up with questions to ask the mentor 
+
+

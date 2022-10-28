@@ -1,0 +1,24 @@
+Action Plan for Day7: 
+
+- Finish up preprocessing organization dataset  - Sanjana
+- Adjust Road map + Gantt chart
+
+- Look into pre trained natural language models, natual language models - Ai team + Monishka 
+
+
+Tomorrow:
+
+- Generate bios for User dataset and adjust size 
+
+
+TFIDF
+https://pypi.org/project/Faker/
+https://huggingface.co/
+RESTful
+API
+SageMaker
+ 
+Flask
+app.pi
+ 
+Mx N matrix calculate half of it 

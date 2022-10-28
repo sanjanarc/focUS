@@ -1,0 +1,12 @@
+Action plan for Day10:
+
+Ai team:
+  - decide whether to use word2vec
+  - finish up cosine singularity comparison
+  - generalize processing to entire dataset 
+
+
+Frontend:
+ - continue developing proficiency in programming languages \
+
+

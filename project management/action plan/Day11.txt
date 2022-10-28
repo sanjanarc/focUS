@@ -1,0 +1,26 @@
+Action plan for Day11:
+
+Frontend: 
+
+- Look into specific HTML features for our web page
+- Look into the design aspect 
+
+Logo, team name and web page name brainstorming - Rachel
+
+Ai team: 
+
+- Complete filtering for age and boroughs
+
+
+Goals:
+
+- Complete ai by 15th 
+- Begin coding frontend tomorrow
+
+Reminder:
+
+- AI doc + Mentor meeting tomorrow 
+
+
+
+

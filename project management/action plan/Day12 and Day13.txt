@@ -1,0 +1,6 @@
+Action plan for Day12:
+
+- Continue coding for front end bootstrap features (Frontend team)
+- Complete Ai model (Ai team)
+- Variations to team logo and motto (Rachel)
+- Look into alternatives to AWS (Asmita)

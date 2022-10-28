@@ -1,0 +1,16 @@
+Action plan for Day1 
+
+- Look into datasets related to volunteering and volunteering organizations, matching profiles etc
+
+- Think about similar problems related to volunteering which can be solved through ai/ml
+
+- Take note of schedules/commitments outside of lab as well as time zones (will discuss further in next meeting)
+
+
+
+
+
+
+
+
+
