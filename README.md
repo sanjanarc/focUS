@@ -1,2 +1,2 @@
 
-This folder contains the code and supporting documents of the focUS project.
+This folder contains the code and supportings documents for the focUS project. 
